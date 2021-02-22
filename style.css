@@ -1,0 +1,81 @@
+body { 
+   text-align: center;
+   font-family: verdana;
+   background-image: url(Imagens/sotão1.jpg.png);
+   background-position: center;
+   background-size:cover;
+   color: : darkred;  
+}
+
+h1	{
+	font-size: 70px;
+	padding-top:  150px;
+	text-shadow: 2px 2px 2px gray;
+	margin-bottom: 20px;
+	color: #DBC0A1
+}
+h3  {	color: #DBC0A1;
+	
+}
+p   {color: #DBC0A1;
+
+}
+
+.botao{
+	text-decoration: none;
+	background-color: darkred;
+	color: #DBC0A1;
+	font-size: 15px;
+	padding: 10px 15px 10px 15px;
+	border-radius: 4px;	
+	
+}
+
+.botao:hover { 
+	background-color: rgb(204, 102, 0);
+
+ }
+
+
+ .lista	{
+ 	list-style: none;
+ 	padding-left: 0;
+ 	margin-top: 75px;
+
+ }
+
+ .lista a{
+ 	color: #DBC0A1;
+ 	font-size: 30px;
+ 	text-decoration: none
+
+ }
+
+ .page_404{ padding:40px 0; background:#fff; font-family: 'Arvo', serif;
+}
+
+.page_404  img{ width:100%;}
+
+.four_zero_four_bg{
+ 
+ background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+    height: 400px;
+    background-position: center;
+ }
+ 
+ 
+ .four_zero_four_bg h1{
+ font-size:80px;
+ }
+ 
+  .four_zero_four_bg h3{
+			 font-size:80px;
+			 }
+			 
+			 .link_404{			 
+	color: #fff!important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;}
+	.contant_box_404{ margin-top:-50px;}
